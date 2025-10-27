@@ -1,0 +1,7 @@
+{
+  "name": "Moto Alerta",
+  "description": "An application to report stolen motorcycles and create a collaborative database to help authorities quickly identify and recover them. Users can report the location of a theft and search by license plate to check a motorcycle's status.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
